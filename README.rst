@@ -4,6 +4,12 @@ Microphone VAD Streaming
 
 Stream from microphone to DeepSpeech, using VAD (voice activity detection). A fairly simple example demonstrating the DeepSpeech streaming API in Python. Also useful for quick, real-time testing of models and decoding parameters.
 
+Command Example
+------------
+.. code-block:: bash
+
+   python3 mic_vad_streaming.py -m deepspeech-0.9.3-models.pbmm -s deepspeech-0.9.3-models.scorer
+
 Installation
 ------------
 
