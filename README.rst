@@ -6,7 +6,7 @@ Stream from microphone to DeepSpeech, using VAD (voice activity detection). A fa
 
 Model Download pbmm & scorer
 ------------
-scorer: https://commonvoice.mozilla.org/en/datasets. <br /> pbmm: https://github.com/mozilla/DeepSpeech/releases/download/v0.9.3/deepspeech-0.9.3-models.pbmm
+scorer: https://commonvoice.mozilla.org/en/datasets.__ pbmm: https://github.com/mozilla/DeepSpeech/releases/download/v0.9.3/deepspeech-0.9.3-models.pbmm
 
 Command Example
 ------------
